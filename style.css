@@ -10,3 +10,13 @@ body {
     display: table;
     margin: auto;
 }
+
+#Chicken-title {
+    text-align: center;
+}
+
+#Chicken-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
