@@ -45,3 +45,15 @@ p {
     display: table;
     margin: auto;
 }
+/*
+    Lasagna-page styling rules
+*/
+#Lasagna-title {
+    text-align: center;
+}
+
+#Lasagna-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
