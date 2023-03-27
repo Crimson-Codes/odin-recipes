@@ -84,3 +84,13 @@ p {
     margin-left: auto;
     margin-right: auto;
 }
+
+#Pizza-ingredients-ul {
+    display: table;
+    margin: auto;
+}
+
+#Pizza-steps-ol {
+    display: table;
+    margin: auto;
+}
